@@ -4,3 +4,4 @@
 
 * Reading 1 - [Intro to Props](301/class1.md)
 * Reading 2 - [State and Props](301/class2.md)
+* Reading 3 - [Passing Functions as Props](301/class3.md)
