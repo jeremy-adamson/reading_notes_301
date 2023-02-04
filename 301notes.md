@@ -8,3 +8,4 @@
 * Reading 4 - [React and Forms](301/class4.md)
 * Reading 5 - [React Revisited](301/class5.md)
 * Reading 6 - [Node.js](301/class6.md)
+* Reading 9 - [Functional Programming](301/class9.md)
