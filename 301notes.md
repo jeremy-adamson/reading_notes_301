@@ -10,3 +10,4 @@
 * Reading 6 - [Node.js](301/class6.md)
 * Reading 9 - [Functional Programming](301/class9.md)
 * Reading 10 - [In Memory Storage](301/class10.md)
+* Reading 11 - [SQL vs. NoSQL](301/class11.md)
