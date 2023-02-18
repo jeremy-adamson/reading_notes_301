@@ -12,3 +12,5 @@
 * Reading 10 - [In Memory Storage](301/class10.md)
 * Reading 11 - [SQL vs. NoSQL](301/class11.md)
 * Reading 12 - [CRUD](301/class12.md)
+* Reading 13 - [More CRUD](301/class13.md)
+
