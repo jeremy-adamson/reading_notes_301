@@ -13,4 +13,4 @@
 * Reading 11 - [SQL vs. NoSQL](301/class11.md)
 * Reading 12 - [CRUD](301/class12.md)
 * Reading 13 - [More CRUD](301/class13.md)
-
+* Reading 14 - [Diveristy](301/class14.md)

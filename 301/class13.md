@@ -1,13 +1,13 @@
 # More CRUD
 
-# CRUD Basics
+## CRUD Basics
 
 * Which HTTP method would you use to update a record through an API?
   * Put
 * Which REST methods require an ID parameter?
   * Put and Delete
 
-# Building a CRUD API
+## Building a CRUD API
 
 * What is the relationship between REST and CRUD?
   * The REST API allows CRUD modification of the information stored in a database (aside from read since that is just a change in state and not modification in of itself).
