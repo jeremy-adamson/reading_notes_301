@@ -6,6 +6,14 @@
 * On the other hand it is important to keep moving forward without staying in one place too long
 * When stuck, reach out for help to avoid needless suffering
 
+* What's your perspective?
+* Why are you doing this?
+  * Several reasons including learning a common programming language, brushing off the dust from an antiquated skill-set from two decades ago, setting myself up for entry into a MS CS program at a university, coding can be fun, income difference vs. engineering, code worked on and algorithms developed will not directly contribute to potential loss of life when implimented.
+* Do you want what comes at the end of this journey?
+  * There's an end? The journey never stops when it comes to learning.
+* Are you doing this for you?
+  * There are reasons both internal and external
+
 ## Big O
 
 * General Big O notation
