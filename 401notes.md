@@ -1,4 +1,4 @@
-# Reading Notes for Code 301 - Intermediate Software Development
+# Reading Notes for Code 401 - Python
 
 [Main](README.md)
 
