@@ -1,12 +1,16 @@
 # Testings and Modules
 
+## Testing Notes
+
 * TDD - Test driven development
   * In all honesty I'll have to read this section 10 more times
   * In my current poisition we write software requirements and verification parameters before even handing it off to software
   * The idea of having a specific rubric (tests) to write towards does provide a bit more direction
   * But yes this reading will be revisited
 
-* __name__ == "__main__"
+## Other Reading notes
+
+* `__name__ == "__main__"`
   * For the most part it ensures that the code being run is a script call instead of being an imported module
   * Fairly important standardized segment to include in scripts
 
