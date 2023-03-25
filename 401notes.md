@@ -4,4 +4,4 @@
 
 * Reading 1 - [Prep work readings](401/class1.md)
 * Data Structures 1 - [Recursion and Structures](401DataStructures/1.md)
-* [FileIO and Exceptions](401/class2.md)
+* [FileIO and Exceptions](401/class3.md)
