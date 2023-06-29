@@ -38,3 +38,30 @@
     * dirs point to the base template file
 
 * flowbite for tailwind CSS
+
+
+
+
+$ python3.11 -m venv .venv
+
+$ source .venv/bin/activate
+
+$ mkdir django-things
+
+$ pip install django
+
+$ django-admin startproject django_things_project .
+
+$ python manage.py runserver
+
+$ python manage.py migrate
+
+$ python manage.py startapp things
+
+$ python -m pip install django-compressor
+
+$ python manage.py test
+
+$ python manage.py createsuperuser
+
+$ python manage.py makemigrations
