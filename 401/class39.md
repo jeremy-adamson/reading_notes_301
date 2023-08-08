@@ -9,6 +9,7 @@
   * From my understanding, useContext Hook is the way of creating a segment of information (context object/component), storing the information, and then retrieving the information in a separate component.
 
 * Describe the purpose of Next.js and provide an example from the Vercel Next.js Examples reading on how it can be used to build a scalable web application.
+  * Next.js makes it so that you can pick and choose what you want to include instead of having to code everything by hand, it also only renders what is needed in that particular moment through code splitting. One of the examples would be including API routes through simple installation on the console and then proceeding to the code itself for the minor tweaks beyond that.
 
 ## Readings and Media
 
