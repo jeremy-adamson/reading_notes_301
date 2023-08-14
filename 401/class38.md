@@ -8,7 +8,12 @@
 * Explain the concept of conditional rendering in React and provide and example of hwo to implement it in a component.
   * Conditional rendering is based off of the idea that in an 'and' statment, the order of operations in evaluating the result moves from left to right. If any condition in that order is false, then any additional conditionals are not evaluated in that expression. For conditional rendering, the flag or condition for rendering is placed first, then a boolean 'and', then the statement which is to be rendered.
 
-* What are the main priciples behind "Thinking in React" and how do they guide the process of designing and building a React application?
+* What are the main principles behind "Thinking in React" and how do they guide the process of designing and building a React application?
+  * Break the UI into a component hierarchy
+  * Build a static version of the information in react
+  * Find out which variables need to live in state
+  * Find out where those variable need to live
+  * Allow components to change the state using inverse data flow
 
 ## Readings
 
